@@ -59,5 +59,5 @@ Como parte del equipo de desarrollo, mis roles principales fueron:
 Si te interesa conocer más sobre la lógica detrás de este proyecto o ver fragmentos de código específicos, ¡no dudes en contactarme!
 
 **Jennifer Celedón**
-* [LinkedIn](www.linkedin.com/in/jenny-celedon)
+* [LinkedIn](https://www.linkedin.com/in/jenny-celedon)
 * [Email](mailto:jennyy20999@gmail.com)
