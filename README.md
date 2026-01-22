@@ -2,7 +2,7 @@
 
 > **Nota:** Este repositorio es una vitrina del proyecto. Debido a políticas de privacidad del equipo de desarrollo y fines académicos, el código fuente completo se mantiene en un repositorio privado. Aquí se expone la arquitectura, funcionalidades y mi contribución técnica.
 
-![Banner Principal](r# NovaCommerce-Showcaseh  (Peliorange/NovaCommerce-Showcase/blob/main/galeria/personalizacion.jpeg)
+![Banner Principal](r# NovaCommerce-Showcaseh  (main/galeria/personalizacion.jpeg)
 
 ## 📄 Descripción del Proyecto
 **Novacommerce** es una solución de comercio electrónico diseñada para PYMES que buscan digitalizar sus ventas sin perder su identidad de marca.
@@ -46,13 +46,13 @@ Como parte del equipo de desarrollo, mis roles principales fueron:
 ## 📸 Galería del Proyecto
 
 ### Vista: Login
-![Panel Admin](ruta/a/tu/imagen_admin.png)
+![Panel Admin](main/galeria/login.jpeg)
 
 ### Vista: Tienda 
-![Tienda Azul](ruta/a/tu/imagen_azul.png)
+![Tienda Azul](main/galeria/tienda.jpeg)
 
 ### Vista: Registro
-![Tienda Roja](ruta/a/tu/imagen_roja.png)
+![Tienda Roja](main/galeria/registro.jpeg)
 
 ---
 ### 📬 Contacto
