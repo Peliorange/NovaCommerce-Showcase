@@ -2,7 +2,7 @@
 
 > **Nota:** Este repositorio es una vitrina del proyecto. Debido a políticas de privacidad del equipo de desarrollo y fines académicos, el código fuente completo se mantiene en un repositorio privado. Aquí se expone la arquitectura, funcionalidades y mi contribución técnica.
 
-![Banner Principal](r# NovaCommerce-Showcaseh  (galeria/personalizacion.jpeg)
+# NovaCommerce-Showcaseh  ![Banner Principal](galeria/personalizacion.jpeg)
 
 ## 📄 Descripción del Proyecto
 **Novacommerce** es una solución de comercio electrónico diseñada para PYMES que buscan digitalizar sus ventas sin perder su identidad de marca.
