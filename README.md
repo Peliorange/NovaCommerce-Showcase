@@ -1,4 +1,4 @@
-# 🛒 Novacommerce: Plataforma E-commerce White-label (Showcase)
+# 🛒 Novacommerce: Plataforma E-commerce (Showcase)
 
 > **Nota:** Este repositorio es una vitrina del proyecto. Debido a políticas de privacidad del equipo de desarrollo y fines académicos, el código fuente completo se mantiene en un repositorio privado. Aquí se expone la arquitectura, funcionalidades y mi contribución técnica.
 
