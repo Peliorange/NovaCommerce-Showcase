@@ -46,7 +46,7 @@ Como parte del equipo de desarrollo, mis roles principales fueron:
 ## 📸 Galería del Proyecto
 
 ### Vista: Login
-![Login](galeria/loginjpeg)
+![Login](galeria/login.jpeg)
 
 ### Vista: Tienda 
 ![Tienda](galeria/tienda.jpeg)
